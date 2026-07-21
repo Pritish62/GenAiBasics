@@ -1,0 +1,17 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "pritish",
+  "type": "module",
+  "main": "01_genAi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.48.0",
+    "zod": "^4.4.3"
+  }
+}
